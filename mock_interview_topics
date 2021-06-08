@@ -1,0 +1,86 @@
+Core Java:
+==============
+1)Collection Framework
+2)Stream API
+3)Java 8 Features
+  a)Predicate(I)
+  b)Function(I)
+  c)Consumer(I)
+  d)Functional Interface
+  e)JODA TIME API
+  f)Lambda Expressions
+
+4)Exception Handling
+5)Multithreading
+6)Object Class : 11 methods
+7)File Handling
+8)OOPS : Overriding,Overloading,Inheritance,Object Creation etc
+9)Generics
+
+=======================================================================================
+J2EE:
+=============
+1)What is a server?
+2)Roles and Responsibilities of a Server
+3)What is the differencve between Web-Server and Application-Server
+4)What is jar ,war ad ear?
+5)What is http
+6)Different http methods
+7)difference between http and https?
+
+
+Desgin Patterns
+
+Frameworks:
+==================
+1)Spring
+2)Hibernate
+
+Database:
+==================
+1)MYSQL
+
+Microservices
+=================
+
+Docker
+=================
+
+Kubernetes
+=================
+
+Java Script
+==================
+ES6
+Promise
+Event Handling
+CallBack Functions
+Storage Objects
+
+Angular
+===============
+1)Components
+2)npm
+3)Pipes
+4)Single Page Application
+5)Interfaces
+6)MetaData
+7)Services
+8)Validation
+
+AWS:
+==============
+1)EC2
+2)Bucket
+3)ECS
+4)ECR
+5)Elastic Bean Stack
+6)AWS CODE COMMIT
+7)AWs CODE BUILD
+8)AWS CODE DEPLOY
+9)DynamoDB
+10)RDS
+11)SQS
+12)SNS
+
+
